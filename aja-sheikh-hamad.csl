@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>AJA Sheikh Hamad</title>
-    <title-short>AJA</title-short>
-    <id>http://www.zotero.org/styles/american-journal-of-archaeology</id>
-    <link href="http://www.zotero.org/styles/american-journal-of-archaeology" rel="self"/>
-    <link href="https://www.ajaonline.org/submissions/references" rel="documentation"/>
+    <title>American Journal of Archaeology - Sheikh Hamad Z.Bib.</title>
+    <title-short>AJA-SH</title-short>
+    <id>http://www.zotero.org/styles/american-journal-of-archaeology-sh-modifications</id>
+    <link href="https://github.com/SheikhHamad/bibliography/blob/master/aja-sheikh-hamad.csl" rel="self"/>
     <author>
       <name>Konstantinos Kopanias</name>
       <email>kkopanias@gmx.de</email>
+    </author>
+    <author>
+      <name>Tobias Schmidt</name>
+      <email>t.schmidt@rubidat.de</email>
     </author>
     <category citation-format="note"/>
     <category field="anthropology"/>
     <issn>0002-9114</issn>
     <eissn>1939-828X</eissn>
     <summary>Sheikh Hamad Citation Style with Z.Bibliog. Number, based on The American Journal of Archaeology style</summary>
-    <updated>2017-04-14T00:46:32+00:00</updated>
+    <updated>2020-01-09T00:46:32+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
