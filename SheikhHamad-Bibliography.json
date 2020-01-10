@@ -9799,5 +9799,33 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "X2L3DVQS",
+		"type": "book",
+		"title": "Assyrische Nutzlandschaft in Obermesopotamien: Natürliche und anthropogene Wirkfaktoren und ihre Auswirkungen",
+		"collection-title": "Münchner Studien zur Alten Welt",
+		"collection-number": "12",
+		"publisher": "Herbert Utz Verlag",
+		"publisher-place": "München",
+		"event-place": "München",
+		"ISBN": "978-3-8316-4451-3",
+		"call-number": "337",
+		"title-short": "Z. Bibliog. Nr. 337",
+		"language": "de",
+		"author": [
+			{
+				"family": "Dornauer",
+				"given": "Aron"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
 	}
+
 ]
